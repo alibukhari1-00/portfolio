@@ -1,0 +1,195 @@
+{
+  "personalInfo": {
+    "fullName": "Ali Nawab",
+    "title": "AI Engineer & Full Stack Developer",
+    "email": "i.alibukhari1@gmail.com",
+    "phone": "+92 333-7919766",
+    "location": "Faisalabad, Pakistan",
+    "profileImage": "/profile.jpg",
+    "bio": "AI Engineer and Full Stack Developer with hands-on experience in building scalable, AI-driven systems and automation solutions. Specialized in LLMs, RAG pipelines, Agentic AI, Computer Vision, and NLP, with strong expertise in FastAPI, Next.js, PostgreSQL, MongoDB, and vector databases. Experienced in designing end-to-end systems (development to deployment), including ERP platforms, automation workflows, and AI-powered applications.",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/ali-nawab-22a531359/",
+      "github": "https://github.com/alibukhari1-00",
+      "twitter": "https://twitter.com/aliNawab",
+      "whatsapp": "https://wa.me/923337919766"
+    }
+  },
+  "about": {
+    "summary": "AI Engineer and Full Stack Developer with hands-on experience in building scalable, AI-driven systems and automation solutions. Specialized in LLMs, RAG pipelines, Agentic AI, Computer Vision, and NLP. Experienced in designing end-to-end systems from development to deployment, including ERP platforms, automation workflows, and AI-powered applications. Skilled in MLOps and LLMOps with a focus on production-ready, real-world solutions.",
+    "highlights": [
+      "Expert in LLMs, RAG Pipelines, and Agentic AI frameworks",
+      "Full-stack development with FastAPI and Next.js",
+      "Advanced Computer Vision with YOLOv8 and MediaPipe",
+      "MLOps and LLMOps expertise (Docker, MLflow, DVC, Airflow)",
+      "Production-ready end-to-end system design"
+    ]
+  },
+  "skills": {
+    "aiGenai": [
+      "LLMs",
+      "RAG Pipelines",
+      "LangChain",
+      "Transformers",
+      "FAISS",
+      "Agentic AI",
+      "Prompt Engineering"
+    ],
+    "computerVision": [
+      "YOLOv8",
+      "MediaPipe",
+      "OpenCV",
+      "ByteTrack",
+      "Pose Estimation",
+      "Image Segmentation",
+      "WebRTC"
+    ],
+    "backend": [
+      "FastAPI",
+      "Next.js",
+      "Node.js",
+      "WebSockets",
+      "REST APIs",
+      "JWT",
+      "RBAC",
+      "Celery",
+      "Redis"
+    ],
+    "mlopsInfra": [
+      "Docker",
+      "MLflow",
+      "DVC",
+      "Apache Airflow",
+      "n8n",
+      "Git",
+      "CI/CD",
+      "Supabase"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MongoDB",
+      "Vector Databases",
+      "Oracle Migration",
+      "SQL"
+    ],
+    "programming": [
+      "Python",
+      "JavaScript/TypeScript",
+      "SQL"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science in Artificial Intelligence (BSAI)",
+      "institution": "FAST-National University of Computer and Emerging Sciences",
+      "startYear": 2022,
+      "endYear": 2026,
+      "gpa": "2.87/4.0",
+      "description": "Specialized in AI and Machine Learning with practical projects in Computer Vision, NLP, and generative AI systems"
+    }
+  ],
+  "experience": [
+    {
+      "position": "AI Engineer / Full Stack Developer",
+      "company": "Etsolar Private Ltd.",
+      "startDate": "Jan 2026",
+      "endDate": "Present",
+      "location": "Faisalabad, Pakistan",
+      "description": "Building scalable AI-driven systems and enterprise solutions",
+      "responsibilities": [
+        "Engineered an Enterprise ERP Platform, executing mission-critical Oracle to PostgreSQL migration with optimized database schemas for high-concurrency operations",
+        "Implemented Agentic AI frameworks to automate B2B interactions, using LangChain for vendor procurement and real-time customer support response logic",
+        "Deployed AI-based CCTV surveillance solutions using YOLO and ByteTrack for real-time person tracking and facial recognition across 35+ camera feeds",
+        "Automated multi-platform social media and WhatsApp workflows using n8n and FastAPI, handling bulk data processing and dynamic content distribution for 26,000+ records"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Visure: Real-Time AI Virtual Try-On (FYP)",
+      "type": "Final Year Project",
+      "description": "A real-time sizing engine utilizing MediaPipe segmentation for live body measurements and avatar simulation, successfully reducing e-commerce return rates.",
+      "technologies": ["Python", "MediaPipe", "WebRTC", "Next.js"],
+      "link": "https://github.com/aliNawab/visure",
+      "highlights": [
+        "Built real-time sizing engine with MediaPipe segmentation",
+        "Architected plug-and-play inventory management system",
+        "Integrated product recommendation logic",
+        "Live WebRTC-based video processing for fashion storefronts",
+        "Successfully reduced e-commerce return rates"
+      ]
+    },
+    {
+      "title": "Enterprise ERP & Automation System",
+      "type": "Professional Project",
+      "description": "Comprehensive ERP platform with automated workflows and analytics dashboards for enterprise operations",
+      "technologies": ["FastAPI", "PostgreSQL", "WhatsApp API", "JWT/RBAC"],
+      "link": "https://github.com/aliNawab/erp-system",
+      "highlights": [
+        "Developed CEO Analytics Dashboard with secure RBAC",
+        "Automated vendor procurement with WhatsApp-based bulk broadcast",
+        "Designed streamlined workflows for purchase demand management",
+        "Enabled CSV-based bulk communication and automated response collection"
+      ]
+    },
+    {
+      "title": "AI-Driven Social Media Automation Hub",
+      "type": "Professional Project",
+      "description": "Smart platform for automated, context-aware posting across multiple social media platforms",
+      "technologies": ["n8n", "Google Gemini", "Webhooks", "CronJobs"],
+      "link": "",
+      "highlights": [
+        "Automated context-aware posting across FB, IG, and LinkedIn",
+        "Utilized LLMs for caption and hashtag generation",
+        "Implemented dynamic scheduling based on engagement patterns",
+        "Integration with national/Islamic event calendars"
+      ]
+    },
+    {
+      "title": "Multiple Disease Prediction System",
+      "type": "Academic Project",
+      "description": "Comprehensive diagnostic system using machine learning for disease classification with voice-enabled results",
+      "technologies": ["Python", "Scikit-Learn", "Coqui TTS", "NLP"],
+      "link": "",
+      "highlights": [
+        "Employed SVM, Naive Bayes, and Decision Trees for classification",
+        "Rigorous data preprocessing and evaluation",
+        "Integrated Coqui TTS for voice-enabled medical reporting",
+        "Enhanced accessibility for automated diagnosis"
+      ]
+    },
+    {
+      "title": "Disaster Response RAG Engine",
+      "type": "Academic Project",
+      "description": "Real-time emergency guidance system using RAG pipelines for delivering safety protocols and evacuation routes",
+      "technologies": ["Llama 3", "FAISS", "RAG Pipelines", "LangChain"],
+      "link": "",
+      "highlights": [
+        "Architected recommendation system using RAG and FAISS",
+        "Sub-second retrieval times for emergency guidance",
+        "Location-aware emergency guidance capabilities",
+        "Real-time decision support during disaster scenarios"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Project Lead — Etsolar",
+      "issuer": "Etsolar Private Ltd.",
+      "date": "2026",
+      "description": "Directing technical strategy and sprint planning for the company's core SaaS products"
+    },
+    {
+      "title": "Team Lead — Visure",
+      "issuer": "FAST University",
+      "date": "2026",
+      "description": "Managing 3-member team for FYP development, overseeing architectural design and API documentation"
+    }
+  ],
+  "contact": {
+    "email": "i.alibukhari1@gmail.com",
+    "phone": "+92 333-7919766",
+    "location": "Faisalabad, Pakistan",
+    "availability": "Available for projects and collaborations",
+    "preferredContactMethod": "Email or LinkedIn message"
+  }
+}

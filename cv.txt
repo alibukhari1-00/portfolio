@@ -1,0 +1,50 @@
+Ali Nawab
++92 333-7919766 | i.alibukhari1@gmail.com | LinkedIn | GitHub
+AI Engineer & Full Stack Developer
+AI Engineer and Full Stack Developer with hands-on experience in building scalable, AI-driven systems and automation solutions.
+Specialized in LLMs, RAG pipelines, Agentic AI, Computer Vision, and NLP, with strong expertise in FastAPI, Next.js, PostgreSQL,
+MongoDB, and vector databases. Experienced in designing end-to-end systems (development to deployment), including ERP
+platforms, automation workflows, and AI-powered applications. Skilled in MLOps and LLMOps (Docker, MLflow, DVC, Airflow) with a
+focus on production-ready, real-world solutions.
+TECHNICAL EXPERTISE
+AI & GenAI: LLMs, RAG Pipelines, LangChain, Transformers, FAISS, Agentic AI, Prompt Engineering
+Computer Vision: YOLOv8, MediaPipe, OpenCV, ByteTrack, Pose Estimation, Image Segmentation, WebRTC
+Backend & Full Stack: FastAPI, Next.js, Node.js, WebSockets, REST APIs, JWT, RBAC, Celery, Redis
+MLOps & Infrastructure: Docker, MLflow, DVC, Apache Airflow, n8n, Git, CI/CD, Supabase
+Databases: PostgreSQL, MongoDB, Vector Databases, Oracle Migration, SQL
+PROFESSIONAL EXPERIENCE
+AI Engineer / Full Stack Developer
+Etsolar Private Ltd.
+Jan 2026– Present
+Faisalabad, Pakistan– Engineered an Enterprise ERP Platform, executing a mission-critical Oracle to PostgreSQL migration and architecting optimized
+database schemas for high-concurrency operations.– Implemented Agentic AI frameworks to automate B2B interactions, using LangChain to manage vendor procurement and real-time
+customer support response logic.– Deployed AI-based CCTV surveillance solutions using YOLO and ByteTrack for real-time person tracking and facial recognition across
+35+ camera feeds.– Automated multi-platform social media and WhatsApp workflows using n8n and FastAPI, handling bulk data processing and dynamic
+content distribution for 26,000+ records.
+TECHNICAL PROJECTS
+Visure: Real-Time AI Virtual Try-On (FYP)
+Python, MediaPipe, WebRTC, Next.js– Built a real-time sizing engine utilizing MediaPipe segmentation for live body measurements and avatar simulation, successfully
+reducing e-commerce return rates.– Architected a plug-and-play inventory management system with integrated product recommendation logic and live WebRTC-based
+video processing for fashion storefronts.
+Enterprise ERP & Automation System
+FastAPI, PostgreSQL, WhatsApp API, JWT/RBAC– Developed a CEO Analytics Dashboard with secure RBAC; automated vendor procurement by replacing manual rate collection with a
+WhatsApp-based bulk broadcast system.– Designed streamlined workflows for purchase demand management, enabling CSV-based bulk communication and automated
+response collection via dynamic links.
+AI-Driven Social Media Automation Hub
+n8n, Google Gemini, Webhooks, CronJobs– Engineered a smart platform for automated, context-aware posting across FB, IG, and LinkedIn, utilizing LLMs for caption and
+hashtag generation based on national/Islamic events.– Implemented dynamic scheduling logic that prioritizes content type based on engagement patterns (Professional/Weekdays vs.
+Lifestyle/Weekends).
+Multiple Disease Prediction System
+Python, Scikit-Learn, Coqui TTS, NLP– Developed a comprehensive diagnostic system employing SVM, Naive Bayes, and Decision Trees for disease classification with
+rigorous data preprocessing and evaluation.– Integrated Coqui TTS for voice-enabled results, enhancing accessibility for automated medical reporting.
+Disaster Response RAG Engine
+Llama 3, FAISS, RAG Pipelines, LangChain– Architected a recommendation system using RAG pipelines and FAISS vector search to deliver safety protocols and evacuation routes
+with sub-second retrieval times.– Provided real-time, location-aware emergency guidance, significantly improving decision-making efficiency during disaster scenarios.
+EDUCATION
+FAST-National University of Computer and Emerging Sciences
+Bachelor of Science in Artificial Intelligence
+LEADERSHIP & RECOGNITION
+Aug 2022– June 2026
+GPA: [2.87]
+• Project Lead — Etsolar: Directing technical strategy and sprint planning for the company’s core SaaS products.
+• Team Lead —Visure: Managing a 3-member team for FYP development, overseeing architectural design and API documentation
