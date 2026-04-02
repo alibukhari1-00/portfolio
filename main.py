@@ -35,6 +35,7 @@ cv_data = load_cv_data()
 origins = [
     "http://localhost:3000",
     "http://localhost:8000",
+    "https://port-frontend-nopt.vercel.app",
     "https://jigar-sable.vercel.app",
     "https://jigar-sable.netlify.app",
 ]
