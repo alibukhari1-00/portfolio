@@ -14,7 +14,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy application files
 COPY main.py .
 COPY cv.json .
-COPY .env .
 
 # Set environment
 ENV PORT=8000
